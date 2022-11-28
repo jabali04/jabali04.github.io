@@ -1,0 +1,79 @@
+body {
+    background: rgb(247,210,104);
+    background: linear-gradient(90deg, rgba(247,210,104,1) 0%, rgba(251,165,130,1) 53%);
+}
+
+
+.c-1 {
+    max-width: 700px;
+    min-width: 280px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+.cc-1 {
+    width: 700px;
+    /* min-width: 40vw; */
+}
+
+.c-2 {
+    max-width: 350px;
+    min-width: 0px;
+
+}
+
+.input-hidden{
+    display: none;
+}
+.input-block{
+    display: block;
+}
+.line-t {
+    text-decoration: line-through;
+}
+
+.buttons-con {
+    max-width: 120px;
+}
+
+/* BUTTONS IMGS */
+.completed-img-bk {
+    background-image: url(./imgs/list-check.svg);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: 25px;
+    width: 35px;
+    height: 35px;
+}
+.edit-img-bk {
+    background-image: url(./imgs/pencil.svg);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: 25px;
+    width: 35px;
+    height: 35px;
+}
+.done-img-bk {
+    background-image: url(./imgs/check2.svg);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: 25px;
+    width: 35px;
+    height: 35px;
+}
+.delete-img-bk {
+    background-image: url(./imgs/trash3.svg);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: 25px;
+    width: 35px;
+    height: 35px;
+}
+/* ////////////////////////////////// */
+
+
+
+
+
+
+
